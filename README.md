@@ -1,6 +1,7 @@
 # CCNA-PROJECT
 🌐 CCNA Enterprise Network Simulation Project
-      📌 Overview
+      
+📌 Overview
           This project demonstrates the design and implementation of a small-to-medium enterprise network using Cisco technologies in Packet Tracer.
           The lab integrates Switching, Routing, Security, Network Services, and WAN technologies to simulate a real-world production environment following CCNA-level best practices.
           The objective is to build a scalable, segmented, secure, and dynamically routed network that supports multiple departments, centralized services, and secure authentication.
